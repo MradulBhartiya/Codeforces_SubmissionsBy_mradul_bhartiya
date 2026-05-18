@@ -10,7 +10,7 @@ typedef vector<bool> vb;
 #define all(v) v.begin() + 1,v.end()
 // Fast I/O is crucial for large array inputs
 void fast_io() {
-    ios_base::sync_with_stdio(false);
+    ios_base::sync_with_stdio(false);x  
     cin.tie(NULL);
 }
 
